@@ -1,1 +1,2 @@
-# dark-mode-toggle
+# dark-mode-toggle 
+Dark and light mode toggle button.
